@@ -1,4 +1,5 @@
 # Stock Trader
+Machine Learning Project
 
 ## Dataset
 - [Kaggle DSE](https://www.kaggle.com/datasets/mahmudulhaque/dsebd)
